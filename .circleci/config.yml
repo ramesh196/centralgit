@@ -15,5 +15,5 @@ jobs:
           command: |
             ls -al
             pwd
-            checkov -f /root/project/rendered.yml
+            checkov -f /root/project/ardoq-api/rendered.yml
 
